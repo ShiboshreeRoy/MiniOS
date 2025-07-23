@@ -3,7 +3,9 @@
 ### *By Shiboshree Roy — Programmer | Software Engineer | Open Source Contributor | Technologist*
 
 ---
-
+### Demo CLI Image
+![MINIOS](./demo/image.png)
+---
 ## 📚 Introduction
 
 **MiniOS** is a lightweight, Python-based simulated operating system designed to model core OS principles through a fully interactive shell. Built entirely in Python with no external dependencies, MiniOS provides a sandboxed environment that emulates Unix-like behavior, including file permissions, user management, process control, and shell utilities.
